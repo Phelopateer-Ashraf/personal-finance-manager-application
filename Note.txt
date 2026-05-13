@@ -1,0 +1,1 @@
+to compile the app (.cpp file) in VS code 2022/2026 , create new project and select C++ from languages list , then select windows desktop application 
